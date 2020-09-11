@@ -1,4 +1,5 @@
 ### Hi there 👋
+This file is the tensorflow implementation of our paper submitted to AAAI-21.
 
 <!--
 **MGNets/MGNets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
