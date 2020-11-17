@@ -1,5 +1,5 @@
 ### Hi there 👋
-This file is the tensorflow implementation of our paper submitted to AAAI-21, you could run our code on Google Colab with Tensorflow 2.2.0.
+This file is the tensorflow implementation of our paper submitted to CVPR-21, you could run our code on Google Colab with Tensorflow 2.2.0.
 
 <!--
 **MGNets/MGNets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
